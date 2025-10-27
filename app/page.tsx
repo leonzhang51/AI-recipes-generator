@@ -8,7 +8,7 @@ export default function HomePage() {
 	return (
 		<div className="min-h-screen">
 			{/* Hero Section */}
-			<section className="bg-gradient-to-br from-green-50 to-white py-20">
+			<section className="bg-linear-to-br from-green-50 to-white py-20">
 				<div className="container mx-auto px-4">
 					<div className="max-w-4xl mx-auto text-center">
 						<h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 animate-fade-in">
